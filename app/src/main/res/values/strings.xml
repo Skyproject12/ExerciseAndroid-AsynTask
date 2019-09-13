@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsynTask</string>
+    <string name="desc">desc</string>
+    <string name="status">status</string>
+    <string name="status_pre">status : OnPre</string>
+    <string name="status_post">status : OnPost </string>
+</resources>
